@@ -1,0 +1,63 @@
+<head>
+    <title>Student Registration Form</title>
+    <body><from>
+<table border="1">
+    <th colspan="10"><center>Student Registration Form</center></th>
+    <tr>
+        <td><br><br>
+            <label for="name">Name(as Per 10<sup>th</sup>Class Certificate</label>
+        <input type="text" id="name" name="name">
+    <label for="name">Father Name*</label>
+    <input type="text" id="fname" name="fname">
+<label for="name">Mother Name*</label>
+<input type="text" id="mname" name="mname">
+<label for="rollno">10<sup>th</sup> Roll Number*</label>
+<input type="text" id="rollno" name="rollno">
+</td>
+<tr>
+    <td><label for="DOB">Date of Birth</label>
+        <input type="date" id="DOB" name="DOB">
+        <br><br>
+        <label for="gender">Gender*</label>
+        <input type="radio" id="Male" name="Gender" value="Male">
+        <label for="male">Male</label>
+        <input type="radio" id="fmale" name="fmale" value="Female">
+        <label for="fmale">Female</label>
+<br><br>
+       <label for="email">Email*</label>
+        <input type="text" id="email" name="email">
+        <label for="mnumber">Mobile Number*</label>
+        <input type="number" id="mnumber" name="mnumber">
+        <label for="anumber">Alternate Mobile Number*</label>
+        <input type="number" id="anumber" name="anumber">
+        <hr>
+        <label for="program">Program Type*</label>
+        <select id="program" name="program">
+            <option value="select">Select Your Program</option>
+            <option value="bca">BCA</option>
+            <option value="bba">BBA</option>
+            <option value="bsc">Bsc Non Medical</option>
+            <option value="mca">MCA</option>
+        </select>
+        <label for="course">Course Type*=</label>
+
+        <label for="ugc">UGC(Non-AICTE)Course</label>
+        <input type="radio" id="ugc" name="ugc" value="ugc">
+        <label for="aicte">AICTE Course</label>
+        <input type="radio" id="aicte" name="aicte" value="aicte">
+        <hr>
+        <label for="pass">Set Your Password*</label>
+        <input type="text" id="pass" name="pass">
+        <br><br>
+        <mark>Password must be 8-15 characters long with one numeric character, one upper case character, one lower case character and one special character</mark>
+        <br><br>
+        <center><button type="submit">Submit</button>
+        <button type="reset">Reset</button></center>
+    </td>
+</tr>
+</td>
+    </tr>
+</form>
+</table>
+    </body>
+</head>
