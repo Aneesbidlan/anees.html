@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/5589ba83e6.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+<body>
+ <div class="cheen"><h1>Great Wall of China</h1></div>
+ <div class="wall"><p>The Great Wall of China is a series of fortifications made of various materials like stone, brick, tamped earth, and wood, stretching over 13,000 miles (21,196 km). It was built primarily to protect China from invasions and raids by nomadic tribes, especially the Mongols, and to control immigration and trade along the Silk Road.
+
+    Construction began in the 7th century BC, with major building phases during the Qin Dynasty (221–206 BC) and the Ming Dynasty (1368–1644). The Wall is not a single continuous structure but rather a series of walls and watchtowers, often with additional defensive features such as trenches and natural barriers.
+    
+    Though the Wall did not always serve as an effective military defense, it stands as a monumental feat of engineering and a symbol of China's historical strength and unity. It is one of the most famous landmarks in the world and a UNESCO World Heritage site.</p></div>
+    <br><br>
+    <div class="travel"><h2>Travel Advice</h2></div>
+    <button class="clock"><i class="fa-regular fa-clock"></i>Best Time To Visit
+    </button>
+ <button class="walk"><i class="fa-solid fa-person-walking"></i>Getting Around</button>
+ <button class="peg"><svg xmlns="http://www.w3.org/2000/svg" width="12px" height="12px" viewBox="0 0 14 14"><path fill="currentColor" fill-rule="evenodd" d="M3.208.574a.75.75 0 0 1 .907-.456l3.601 1.026a.75.75 0 0 1 .53.867L7.2 7.315a3.08 3.08 0 0 1-3.117 2.482l-.672 2.357l.74.211a.75.75 0 0 1-.411 1.443L2.313 13.4a.75.75 0 0 1-.07-.02l-1.429-.407a.75.75 0 1 1 .412-1.443l.742.212l.672-2.357A3.08 3.08 0 0 1 1.3 5.633L3.207.574Zm.481 2.974l2.574.766l.378-1.917l-2.273-.648zm6.313 6.321a3.082 3.082 0 0 1-2.144-.868a4.32 4.32 0 0 0 .567-1.444l.698-3.539l1.479-.353l-.631-1.849l-.462.116A2 2 0 0 0 8.987.517l1.288-.323a.75.75 0 0 1 .893.485l1.746 5.117a3.08 3.08 0 0 1-1.457 3.707l.596 2.377l.745-.187a.75.75 0 0 1 .365 1.455l-1.443.362a.711.711 0 0 1-.059.015l-1.449.364a.75.75 0 0 1-.365-1.455l.751-.189z" clip-rule="evenodd"/></svg>Local Customs</button>
+ <button class="bulb"><svg xmlns="http://www.w3.org/2000/svg" width="12px" height="12px" viewBox="0 0 15 15"><path fill="currentColor" d="m4.076 6.47l.495.07l-.495-.07Zm-.01.07l-.495-.07l.495.07Zm6.858-.07l.495-.07l-.495.07Zm.01.07l-.495.07l.495-.07ZM9.5 12.5v.5a.5.5 0 0 0 .5-.5h-.5Zm-4 0H5a.5.5 0 0 0 .5.5v-.5Zm-.745-3.347l.396-.306l-.396.306Zm5.49 0l-.396-.306l.396.306ZM6 15h3v-1H6v1ZM3.58 6.4l-.01.07l.99.14l.01-.07l-.99-.14ZM7.5 3a3.959 3.959 0 0 0-3.92 3.4l.99.14A2.959 2.959 0 0 1 7.5 4V3Zm3.92 3.4A3.959 3.959 0 0 0 7.5 3v1a2.96 2.96 0 0 1 2.93 2.54l.99-.14Zm.01.07l-.01-.07l-.99.14l.01.07l.99-.14Zm-.79 2.989c.63-.814.948-1.875.79-2.99l-.99.142a2.951 2.951 0 0 1-.59 2.236l.79.612ZM9 10.9v1.6h1v-1.599H9Zm.5 1.1h-4v1h4v-1Zm-3.5.5v-1.599H5V12.5h1ZM3.57 6.47a3.951 3.951 0 0 0 .79 2.989l.79-.612a2.951 2.951 0 0 1-.59-2.236l-.99-.142ZM6 10.9c0-.823-.438-1.523-.85-2.054l-.79.612c.383.495.64.968.64 1.442h1Zm3.85-2.054C9.437 9.378 9 10.077 9 10.9h1c0-.474.257-.947.64-1.442l-.79-.612ZM7 0v2h1V0H7ZM0 8h2V7H0v1Zm13 0h2V7h-2v1ZM3.354 3.646l-1.5-1.5l-.708.708l1.5 1.5l.708-.708Zm9 .708l1.5-1.5l-.708-.708l-1.5 1.5l.708.708Z"/></svg>Tips From The Pros</button>
+ <br><br>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.9587743462944!2d116.56779997515083!3d40.43191175471661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f121d7687f2ccf%3A0xd040259b950522df!2sGreat%20Wall%20of%20China!5e0!3m2!1sen!2sin!4v1730955507514!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
