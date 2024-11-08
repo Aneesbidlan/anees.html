@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/5589ba83e6.js" crossorigin="anonymous"></script>
+</head>
+<body>
+   <div class="christ">
+    <h1>Christ the Redeemer</h1>
+    <div class="about"><p>Christ the Redeemer is an iconic statue of Jesus Christ located atop Corcovado Mountain in Rio de Janeiro, Brazil. Standing 98 feet (30 meters) tall with a 92-foot (28-meter) arm span, the statue was completed in 1931 and designed by Brazilian engineer Heitor da Silva Costa and French sculptor Paul Landowski. Made of reinforced concrete and soapstone, it symbolizes peace, love, and Christianity. The statue is one of the New Seven Wonders of the World and serves as a major cultural and religious landmark, drawing millions of tourists and pilgrims annually. It offers panoramic views of the city and is a symbol of Brazil's welcoming spirit.</p></div>
+   </div>
+   <h2>Travel Advice</h2>
+        <button class="clock"><i class="fa-regular fa-clock"></i>Best Time To Visit
+        </button>
+     <button class="walk"><i class="fa-solid fa-person-walking"></i>Getting Around</button>
+     <button class="peg"><svg xmlns="http://www.w3.org/2000/svg" width="12px" height="12px" viewBox="0 0 14 14"><path fill="currentColor" fill-rule="evenodd" d="M3.208.574a.75.75 0 0 1 .907-.456l3.601 1.026a.75.75 0 0 1 .53.867L7.2 7.315a3.08 3.08 0 0 1-3.117 2.482l-.672 2.357l.74.211a.75.75 0 0 1-.411 1.443L2.313 13.4a.75.75 0 0 1-.07-.02l-1.429-.407a.75.75 0 1 1 .412-1.443l.742.212l.672-2.357A3.08 3.08 0 0 1 1.3 5.633L3.207.574Zm.481 2.974l2.574.766l.378-1.917l-2.273-.648zm6.313 6.321a3.082 3.082 0 0 1-2.144-.868a4.32 4.32 0 0 0 .567-1.444l.698-3.539l1.479-.353l-.631-1.849l-.462.116A2 2 0 0 0 8.987.517l1.288-.323a.75.75 0 0 1 .893.485l1.746 5.117a3.08 3.08 0 0 1-1.457 3.707l.596 2.377l.745-.187a.75.75 0 0 1 .365 1.455l-1.443.362a.711.711 0 0 1-.059.015l-1.449.364a.75.75 0 0 1-.365-1.455l.751-.189z" clip-rule="evenodd"/></svg>Local Customs</button>
+     <button class="bulb"><svg xmlns="http://www.w3.org/2000/svg" width="12px" height="12px" viewBox="0 0 15 15"><path fill="currentColor" d="m4.076 6.47l.495.07l-.495-.07Zm-.01.07l-.495-.07l.495.07Zm6.858-.07l.495-.07l-.495.07Zm.01.07l-.495.07l.495-.07ZM9.5 12.5v.5a.5.5 0 0 0 .5-.5h-.5Zm-4 0H5a.5.5 0 0 0 .5.5v-.5Zm-.745-3.347l.396-.306l-.396.306Zm5.49 0l-.396-.306l.396.306ZM6 15h3v-1H6v1ZM3.58 6.4l-.01.07l.99.14l.01-.07l-.99-.14ZM7.5 3a3.959 3.959 0 0 0-3.92 3.4l.99.14A2.959 2.959 0 0 1 7.5 4V3Zm3.92 3.4A3.959 3.959 0 0 0 7.5 3v1a2.96 2.96 0 0 1 2.93 2.54l.99-.14Zm.01.07l-.01-.07l-.99.14l.01.07l.99-.14Zm-.79 2.989c.63-.814.948-1.875.79-2.99l-.99.142a2.951 2.951 0 0 1-.59 2.236l.79.612ZM9 10.9v1.6h1v-1.599H9Zm.5 1.1h-4v1h4v-1Zm-3.5.5v-1.599H5V12.5h1ZM3.57 6.47a3.951 3.951 0 0 0 .79 2.989l.79-.612a2.951 2.951 0 0 1-.59-2.236l-.99-.142ZM6 10.9c0-.823-.438-1.523-.85-2.054l-.79.612c.383.495.64.968.64 1.442h1Zm3.85-2.054C9.437 9.378 9 10.077 9 10.9h1c0-.474.257-.947.64-1.442l-.79-.612ZM7 0v2h1V0H7ZM0 8h2V7H0v1Zm13 0h2V7h-2v1ZM3.354 3.646l-1.5-1.5l-.708.708l1.5 1.5l.708-.708Zm9 .708l1.5-1.5l-.708-.708l-1.5 1.5l.708.708Z"/></svg>Tips From The Pros</button>
+     <br><br>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.954274762315!2d-43.21306212544659!3d-22.951911039483896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997fd5984aa13f%3A0x9dc984d7019502de!2sChrist%20the%20Redeemer!5e0!3m2!1sen!2sin!4v1731039926485!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
