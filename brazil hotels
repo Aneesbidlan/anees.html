@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Best Hotels In Rio de Janeiro 🇧🇷 </h1>
+    <h2>Hotels</h2>
+    <hr>
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://pix8.agoda.net/hotelImages/3501323/0/f85da406bac4212f885d9597f856f592.jpg?ce=0&s=1024x" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Hilton Rio de Janeiro Copacabana</h5>
+          <p class="card-text">Recomended By Rizen</p>
+          <a href="https://www.agoda.com/en-in/hilton-rio-de-janeiro-copacabana_2/hotel/rio-de-janeiro-br.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1914936&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2024-11-20&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=ab580d2e-4d07-4eff-a991-cb0d044d8087&tspTypes=5%2C16%2C8%2C-1&los=1&searchrequestid=6965ae8b-f9e4-406c-8ce4-51f4807168e1&ds=yUsbfGHq%2F%2FOAa79S" class="btn btn-primary">Check Availablity</a>
+        </div>
+      </div>
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://pix8.agoda.net/hotelImages/1180178/0/91ef83c506d564fdf40e80bd12e8a9f0.jpg?ca=0&ce=1&s=600x" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Grand Hyatt</h5>
+          <p class="card-text">Recomended By Rizen</p>
+          <a href="https://www.agoda.com/en-in/grand-hyatt-rio-de-janeiro/hotel/rio-de-janeiro-br.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1914936&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2024-11-20&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=ab580d2e-4d07-4eff-a991-cb0d044d8087&los=1&searchrequestid=6965ae8b-f9e4-406c-8ce4-51f4807168e1&ds=yUsbfGHq%2F%2FOAa79S" class="btn btn-primary">Check Availablity</a>
+        </div>
+      </div>
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://pix8.agoda.net/hotelImages/4593982/0/7dd3daad0a6c20e8297a95bc709f2b03.jpg?ca=7&ce=1&s=600x" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">JW Marriott Hotel</h5>
+          <p class="card-text">Recomended By Rizen</p>
+          <a href="https://www.agoda.com/en-in/jw-marriott-hotel-rio-de-janeiro_2/hotel/rio-de-janeiro-br.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1914936&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2024-11-20&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=ab580d2e-4d07-4eff-a991-cb0d044d8087&los=1&searchrequestid=6965ae8b-f9e4-406c-8ce4-51f4807168e1&ds=yUsbfGHq%2F%2FOAa79S" class="btn btn-primary">Check Availablity</a>
+        </div>
+      </div>
+      <hr>
+      <h2>Resturant</h2>
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/53/3a/45/milanesa-com-risotto.jpg?w=900&h=500&s=1" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Spoleto Largo Do Machado</h5>
+          <p class="card-text">Recomended By Rizen</p>
+          <a href="https://www.spoleto.com.br/tabs/cardapio" class="btn btn-primary">Book Your Table</a>
+        </div>
+      </div>
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/5f/60/95/caption.jpg?w=1000&h=-1&s=1" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Masserini Osteria Di Mare</h5>
+          <p class="card-text">Recomended By Rizen</p>
+          <a href="https://www.solipanema.com.br/" class="btn btn-primary">Book Your Table</a>
+        </div>
+      </div>
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/e6/6b/01/caption.jpg?w=1000&h=-1&s=1" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Clássico Beach Club</h5>
+          <p class="card-text">Recomended By Rizen</p>
+          <a href="https://classicobeachclub.com/" class="btn btn-primary">Book Your Table</a>
+        </div>
+      </div>
+</body>
+</html>
+
+  
+
