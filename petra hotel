@@ -9,18 +9,22 @@
     <title>Document</title>
 </head>
 <body>
-  <h1><center>Best Hotel And Resturant In Petra 🇯🇴</center></h1>
+  <h1>Best Hotel And Resturant In Petra 🇯🇴</h1>
   <hr>
   <h2>Hotels</h2>
+  <div class="card-contaner">
+  <div class="petra"><h2></h2>
   <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="https://cache.marriott.com/marriottassets/marriott/MPQMC/mpqmc-exterior-0041-hor-feat.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1180px:*" alt="Card image cap">
+    <img class="card-img-top" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/61/dd/exterior.jpg?w=900&h=500&s=1" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Petra Marriott Hotel</h5>
       <p class="card-text">Recomended By Rizen</p>
       <a href="https://www.marriott.com/en/hotels/travel/mpqmc-petra-marriott-hotel/" class="btn btn-primary">Check Availablity</a>
     </div>
   </div>
-  <br><br>
+  </div>
+  
+  <div class="guest">
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://lh3.googleusercontent.com/p/AF1QipNuZfWsgzKGyQD1V1MA-zdzzvG4TymwNINHtnlE=w287-h192-n-k-rw-no-v1" alt="Card image cap">
     <div class="card-body">
@@ -29,7 +33,9 @@
       <a href="https://www.petraguesthousehotel.com/booking" class="btn btn-primary">Check Availablity</a>
     </div>
   </div>
-  <br><br>
+  </div>
+  
+  <div class="moon">
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://lh3.googleusercontent.com/proxy/-WIzxy0-_U1YQzzE_EOVW4mGCivU2YFMOFf4TOsiie0oyHFNiByMxPfT3zPPztkv1FgfX1YOg5kjKd7iAH7n3bqXRP0q1xFcKENaM9UZI8IH9EtYmnAuIhMFqWtS2Ddi1xthdG606NGZ8cYIHBC2isdcG-ER_w=w287-h192-n-k-rw-no-v1" alt="Card image cap">
     <div class="card-body">
@@ -38,9 +44,12 @@
       <a href="https://petramoonluxury.com/?page_id=1062" class="btn btn-primary">Check Availablity</a>
     </div>
   </div>
-  <br><br>
+  </div>
+  </div>
   <h2>Resturant</h2>
   <hr>
+  <div class="all-container">
+  <div class="mom">
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://lh3.googleusercontent.com/p/AF1QipMIB0PcUdfdnJdacPtLJVY333Cryi4Os-94eRns=s1360-w1360-h1020" alt="Card image cap">
     <div class="card-body">
@@ -49,7 +58,9 @@
       <a href="https://mymomsreciperestaurant.com/booking/" class="btn btn-primary">Book Your Table</a>
     </div>
   </div>
+  </div>
   <br><br>
+  <div class="palm">
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://lh3.googleusercontent.com/p/AF1QipOidgy6MBdI60urfMseTPuXoVXtXdfSXB7QHxfq=s1360-w1360-h1020" alt="Card image cap">
     <div class="card-body">
@@ -58,7 +69,9 @@
       <a href="https://www.happycow.net/reviews/palm-court-wadi-musa-179639" class="btn btn-primary">Book Your Table</a>
     </div>
   </div>
+  </div>
   <br><br>
+  <div class="time">
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://lh3.googleusercontent.com/p/AF1QipPE-xuXLIR7fqYy5LJ60fAs-nlfz5qhMwaLDtI=s1360-w1360-h1020" alt="Card image cap">
     <div class="card-body">
@@ -67,4 +80,6 @@
       <a href="https://www.timeout.cat/barcelona/ca/restaurants/casa-petra" class="btn btn-primary">Book Your Table</a>
     </div>
   </div>
+  </div>
+</div>
 </body>
