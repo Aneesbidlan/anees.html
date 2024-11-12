@@ -1,0 +1,25 @@
+body{
+    background-color: #33333332;
+    backdrop-filter: blur(5px);
+}
+h1{
+    text-align: center;
+}
+.card-contaner{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    position: relative;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+}
+.all-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    position: relative;
+}
