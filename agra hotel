@@ -9,9 +9,10 @@
     <title>Document</title>
 </head>
 <body>
-  <h1><center>Best Hotels And Resturant In Agra 🇮🇳</center></h1>
+  <h1>Best Hotels And Resturant In Agra 🇮🇳</h1>
   <h2>Hotels</h2>
   <hr>
+  <div class="card-contaner">
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://cf2.bstatic.com/xdata/images/hotel/max1280x900/274850939.jpg?k=b30d9be90900a9cffe2be615bffa8d350b5f31e5828e70884b7233cd408cb9b5&o=&hp=1" alt="Card image cap">
     <div class="card-body">
@@ -20,7 +21,6 @@
       <a href="https://www.radissonhotels.com/en-us/hotels/radisson-agra?facilitatorId=RHGSEM&cid=a%3Aps+b%3Aggl+c%3Aemea+i%3Abrand+e%3Arad+d%3Aind+r%3Abrt+f%3Aen-US+g%3Aho+h%3AINUPAGR1+v%3Acf&gad_source=1&gclid=Cj0KCQiA0MG5BhD1ARIsAEcZtwRAZScOo_Ag4IvsIhLzxVdNN4jXaTK5UUq0fXloOtB9gXER0PuW5noaAkgVEALw_wcB&gclsrc=aw.ds" class="btn btn-primary">Check Availablity</a>
     </div>
   </div>
-  <br><br>
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://cf2.bstatic.com/xdata/images/hotel/max1280x900/555491054.jpg?k=2d9d49fc615b937fe77f29f2d247f1030c8fd3e486c83051a9a1c7ba5991cc8a&o=&hp=1" alt="Card image cap">
     <div class="card-body">
@@ -29,7 +29,6 @@
       <a href="https://www.royalorchidhotels.com/regenta-place-raaj-agra/overview?mhs_hid=24906&mhs_plid=99&mhs_pos=953-889-9000.21675245984&mhs_cc=royalorchid&gad_source=1&gclid=Cj0KCQiA0MG5BhD1ARIsAEcZtwQ27-B0sWdsu9ET_TitdwN1KGQ9ypFFGOAnOGoULUH1hXs4rdiYXkwaAq6aEALw_wcB" class="btn btn-primary">Check Availablity</a>
     </div>
   </div>
-  <br><br>
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://shaandaarevents.com/wp-content/uploads/2023/06/trident-agra.jpg" alt="Card image cap">
     <div class="card-body">
@@ -38,9 +37,10 @@
       <a href="https://www.tridenthotels.com/hotels-in-agra/?utm_source=GMBlisting&utm_medium=organic&gad_source=1&gclid=Cj0KCQiA0MG5BhD1ARIsAEcZtwReHQMxchQAS9xWK1_2rv3WmRwz_0gX_QVXXsavyVAPr2kov3A_6OQaAjYCEALw_wcB&gclsrc=aw.ds" class="btn btn-primary">Check Availablity</a>
     </div>
   </div>
-  <br><br>
+  </div>
   <h2>Resturant</h2>
   <hr>
+  <div class="all-container">
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://www.tajterrace.com/assets/images/project/style1/g7.jpg" alt="Card image cap">
     <div class="card-body">
@@ -49,7 +49,6 @@
       <a href="https://www.tajterrace.com/#rs-project" class="btn btn-primary">Book Your Table</a>
     </div>
   </div>
-  <br><br>
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/4b/52/bc/caption.jpg?w=1000&h=-1&s=1" alt="Card image cap">
     <div class="card-body">
@@ -58,7 +57,6 @@
       <a href="https://www.google.com/maps/reserve/v/dine/c/ANVZzc2SLjQ?source=pa&opi=89978449&hl=en-IN&gei=25AwZ7n_PJaUseMP-pau6Qs&sourceurl=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DTea%27se%2BMe%26rlz%3D1C1ONGR_enIN1135IN1135%26oq%3DTea%27se%2BMe%26gs_lcrp%3DEgZjaHJvbWUyCQgAEEUYORiABDITCAEQLhivARjHARiRAhiABBiKBTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE5MDJqMGoxNagCCLACAQ%26sourceid%3Dchrome%26ie%3DUTF-8&ihs=3" class="btn btn-primary">Book Your Table</a>
     </div>
   </div>
-  <br><br>
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/95/2c/e0/r.jpg?w=800&h=-1&s=1" alt="Card image cap">
     <div class="card-body">
@@ -66,5 +64,6 @@
       <p class="card-text">Recommended By Rizen</p>
       <a href="https://www.oberoihotels.com/hotels-in-agra-amarvilas-resort/restaurants/bellevue/?utm_source=GMBlisting&utm_medium=organic" class="btn btn-primary">Book Your Table</a>
     </div>
+  </div>
   </div>
 </body>
